@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bb7d0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6bb7d0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Roberto+Teixeira;Tenho+26+anos;E+sou+desenvolvedor+front+end;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6bb7d0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Roberto+Teixeira;Tenho+27+anos;E+sou+desenvolvedor+front+end;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
 
 <br>
 
@@ -19,18 +19,24 @@
 </div>
 
 ## 🧠 _Conhecimentos:_
-<div style="display: inline_block"><br>
-  <img align="center" style="margin-right: 300px" alt="Roberto-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;
-  <img align="center" alt="Roberto-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  &nbsp;
-  <img align="center" alt="Roberto-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  &nbsp;
-  <img align="center" alt="Roberto-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  &nbsp;
-  <img align="center" alt="Roberto-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  &nbsp;
-  <img align="center" alt="Roberto-Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />          
+<div style="display: inline_block">
+ <ul>
+  <li>
+    <strong>Linguagens e Tecnologias:</strong> HTML, CSS, JavaScript, TypeScript, APIs REST
+  </li>
+  <li>
+     <strong>Frameworks & Bibliotecas:</strong> React.js, Next.js, Prisma, Zustand, TanStack Query, Auth.js, ShadCN UI, Tailwind CSS, Styled Components, Sass, Bootstrap
+  </li>
+  <li>
+     <strong>Ferramentas de Desenvolvimento:</strong> Git, GitHub, Visual Studio Code, Vercel
+  </li>
+  <li>
+     <strong>Design & UI:</strong> Figma, Adobe Photoshop, Web Design Responsivo
+  </li>
+  <li>
+     <strong>Outros:</strong> Conhecimento em metodologia ágil SCRUM, Pacote Office
+  </li>
+ </ul>
 </div>
 
 <br>
